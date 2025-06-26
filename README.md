@@ -6,6 +6,9 @@ PDF Version: [Ariel_Tyson_Software_Engineer_Resume.pdf](https://github.com/user-
 
 <br>
 
-![Screenshot 2025-02-26 at 1 55 16 AM](https://github.com/user-attachments/assets/54fab223-8bb3-415e-87ef-31b1938cff25)
+![Ariel_Tyson_Software_Engineer_Resume Screenshot](https://github.com/user-attachments/assets/67fee472-78bf-45bd-887b-8f66d113391d)
 
 </div>
+
+
+
