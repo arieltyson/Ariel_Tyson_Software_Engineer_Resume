@@ -2,7 +2,8 @@
 
 # Ariel Tyson's Software Engineering Resume
 
-PDF Version: [Ariel_Tyson_Software_Engineer_Resume.pdf](https://github.com/user-attachments/files/18981577/Ariel_Tyson_Software_Engineer_Resume.pdf)
+PDF Version: [Ariel_Tyson_Software_Engineer_Resume.pdf](https://github.com/arieltyson/Ariel_Tyson_Software_Engineer_Resume/blob/main/Ariel_Tyson_Software_Engineer_Resume.pdf)
+
 
 <br>
 
