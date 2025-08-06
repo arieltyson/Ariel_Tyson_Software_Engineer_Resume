@@ -7,8 +7,6 @@ PDF Version: [Ariel_Tyson_Software_Engineer_Resume.pdf](https://github.com/ariel
 
 <br>
 
-![Ariel_Tyson_Software_Engineer_Resume Screenshot](https://github.com/user-attachments/assets/68d8ada8-71a6-418c-ab35-a8b8ebdd9d45)
+<img width="1342" height="1736" alt="Ariel_Tyson_Software_Engineer_Resume" src="https://github.com/user-attachments/assets/a74ab4da-a749-4dcf-a296-ec8a63511b26" />
 
 </div>
-
-
